@@ -4,30 +4,250 @@ title: Calendar
 uid: 27629048-c20b-e66c-054e-f281ee9e9d32
 ---
 
-| LEC # | TOPICS |
-| --- | --- |
-| 1 | Introduction |
-| 2 | Neural Induction |
-| 3 | Establishing the CNS Anterior/Posterior Axis |
-| 4 | Hox Genes and Segmental Organization of the Hindbrain and Spinal Cord |
-| 5 | The Spinal Cord Dorsal/Ventral Axis |
-| 6 | Regionalization of the Embryonic Midbrain and Forebrain |
-| 7 | Lineage Studies |
-| 8 | Neural Crest |
-| 9 | Progression from Extrinsic to Intrinsic Signals of Cell Fate |
-| 10 | Neuronal Migration 1: Radial vs Tangential Movement  {{< br >}}Prof. Carlos Lois, MIT |
-| 11 | Asymmetric Cell Divisions |
-| 12 | Stem Cells |
-| 13 | Axon Guidance 1: Cues, Receptors and Downstream Signalling  {{< br >}}Prof. Paul Garrity, MIT |
-| 14 | Axon Guidance 2: Cues, Receptors and Downstream Signalling  {{< br >}}Prof. Paul Garrity, MIT |
-| 15 | Cell Death |
-| 16 | Growth Factors |
-| 17 | Map Formation 1: The Retinotectal System  {{< br >}}\- Chemical and Molecular Gradients |
-| 18 | Neuronal Migration 2: Long Distance Travel  {{< br >}}Prof. Carlos Lois, MIT |
-| 19 | Map Formation 2: The Olfactory System  {{< br >}}\- Representing Smells in the Brain |
-| 20 | Activity Dependent Development 1: The Visual System |
-| 21 | Cortical Regionalization: Specification of Functional Domains  {{< br >}}Maria Donohgue, Yale University |
-| 22 | Activity Dependent Development 2: Plasticity Genes |
-| 23 | Synapse Formation 1: NMJ |
-| 24 | Synapse Formation 2: Central Synapses |
-| 25 | Review
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Neural Induction
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Establishing the CNS Anterior/Posterior Axis
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Hox Genes and Segmental Organization of the Hindbrain and Spinal Cord
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+The Spinal Cord Dorsal/Ventral Axis
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Regionalization of the Embryonic Midbrain and Forebrain
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Lineage Studies
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Neural Crest
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Progression from Extrinsic to Intrinsic Signals of Cell Fate
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Neuronal Migration 1: Radial vs Tangential Movement  
+Prof. Carlos Lois, MIT
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Asymmetric Cell Divisions
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Stem Cells
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Axon Guidance 1: Cues, Receptors and Downstream Signalling  
+Prof. Paul Garrity, MIT
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Axon Guidance 2: Cues, Receptors and Downstream Signalling  
+Prof. Paul Garrity, MIT
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Cell Death
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Growth Factors
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Map Formation 1: The Retinotectal System  
+\- Chemical and Molecular Gradients
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Neuronal Migration 2: Long Distance Travel  
+Prof. Carlos Lois, MIT
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Map Formation 2: The Olfactory System  
+\- Representing Smells in the Brain
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Activity Dependent Development 1: The Visual System
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Cortical Regionalization: Specification of Functional Domains  
+Maria Donohgue, Yale University
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Activity Dependent Development 2: Plasticity Genes
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Synapse Formation 1: NMJ
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Synapse Formation 2: Central Synapses
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Review
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
