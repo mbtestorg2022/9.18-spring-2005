@@ -4,6 +4,7 @@ description: This presentation explains the Cortical Migration Review and its ex
   approach and findings.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/9-18-developmental-neurobiology-spring-2005/e0cbca5378cbd14421469a05b72549e8_lec11_david_noc.pdf
 file_type: application/pdf
+parent_uid: 0620498c-faec-efb4-9635-e7cda75302b4
 resourcetype: Document
 title: lec11_david_noc.pdf
 uid: e0cbca53-78cb-d144-2146-9a05b72549e8

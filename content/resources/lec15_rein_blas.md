@@ -5,6 +5,7 @@ description: This presentation explains the programmed cell death, In-Situ end l
   apoptosis and ISEL+ validation Heat.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/9-18-developmental-neurobiology-spring-2005/0ec61c05ac432fe43788603eab84d2da_lec15_rein_blas.pdf
 file_type: application/pdf
+parent_uid: 0620498c-faec-efb4-9635-e7cda75302b4
 resourcetype: Document
 title: lec15_rein_blas.pdf
 uid: 0ec61c05-ac43-2fe4-3788-603eab84d2da

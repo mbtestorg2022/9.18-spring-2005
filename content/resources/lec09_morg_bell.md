@@ -8,6 +8,7 @@ description: 'This presentation explains whether postmitotic cells influence pro
   stem cell population.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/9-18-developmental-neurobiology-spring-2005/14408491eb2ec3ab8ec0738ee2721372_lec09_morg_bell.pdf
 file_type: application/pdf
+parent_uid: 0620498c-faec-efb4-9635-e7cda75302b4
 resourcetype: Document
 title: lec09_morg_bell.pdf
 uid: 14408491-eb2e-c3ab-8ec0-738ee2721372
